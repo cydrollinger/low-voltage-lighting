@@ -1,0 +1,24 @@
+Web ID,Access ID,Salesorder Number,Shipping Method,Customer Number,Payment Method,
+155041306,3842,46255604,U.S. Postal Service Priority Mail* (2-3 Day Delivery to most US addresses),4682317,VISA,
+
+Shipping Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email Address,Telephone,
+CY,DROLLINGER,ELECTRONIC REALIZATION,,2405 W COLLEGE UNIT 39,,BOZEMAN,MT,59718,USA,CY@ELEC-REAL.COM,4065772712,
+
+Billing Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email Address,Telephone,
+CY,DROLLINGER,ELECTRONIC REALIZATION,,2405 W COLLEGE UNIT 39,,BOZEMAN,MT,59718,USA,,,
+
+Index,Quantity,Part Number,Description,Customer Reference,Available Quantity,Backorder Quantity,Unit Price USD,Extended Price USD,
+1,10,XHGAWT-00-0000-00000HXE1CT-ND,LED XLAMP COOL WHITE 6500K 2SMD,,10,0,0.49000,4.90,
+2,4,LTC6992CS6-1#TRMPBFCT-ND,IC OSC SILICON PROG TSOT23-6,,4,0,3.83000,15.32,
+3,4,3303W-203ECT-ND,TRIMMER 20K OHM 0.15W SMD,,4,0,0.38000,1.52,
+4,10,490-1318-1-ND,CAP CER 0.1UF 10V X5R 0402,,10,0,0.01200,0.12,
+5,1,311-120KLRCT-ND,RES SMD 120K OHM 1% 1/16W 0402,RSET,1,0,0.10000,0.10,
+6,10,311-10.0KLRCT-ND,RES SMD 10K OHM 1% 1/16W 0402,R36,10,0,0.01300,0.13,
+7,10,311-6.81KLRCT-ND,RES SMD 6.81K OHM 1% 1/16W 0402,R37,10,0,0.01300,0.13,
+8,10,311-3.0ARCT-ND,RES SMD 3 OHM 5% 1/8W 0805,r1,r2,10,0,0.01800,0.18,
+,,,,,,Subtotal,22.40
+,,,,,,Shipping,unknown
+,,,,,,Estimated Sales Tax,0.00
+,,,,,,Total,unknown
