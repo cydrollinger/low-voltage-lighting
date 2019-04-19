@@ -33,5 +33,6 @@ controls the duty cycle, 0-100%, of a 100Hz square wave.
 			* bom	: files created to order the parts	
 			* gerber	: files generated to manufacture the board
 			* <a href="https://oshpark.com/shared_projects/Yydb06ED"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+	
 	* readme.md	: this file
 	
