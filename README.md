@@ -1,5 +1,5 @@
 
-![ER_LOGO](/docs/github.png)
+<a href="www.elec-real.com"><img src="/docs/github.png" ></img></a>
 >Electronic Realization L.L.C.								   
 >Design: Hardware design of 4 LEDs		   
 >Engineer: Cy Drollinger								   
